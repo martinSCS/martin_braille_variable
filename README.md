@@ -1,6 +1,6 @@
-# Braille Variable Font Starter v2
+# Braille Variable Font Starter
 
-This version matches this model:
+The fonts matches this model:
 
 - Regular: draw filled dots only at active Braille dot positions.
 - Outline 6 Dots / Outline 8 Dots: draw normal filled dots at active positions, and hollow outline dots at inactive positions.
